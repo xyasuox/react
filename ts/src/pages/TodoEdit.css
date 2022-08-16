@@ -1,0 +1,16 @@
+.todo_title_input {
+  line-height: 20px;
+  width: 500px;
+  margin: 6px 0;
+}
+
+.todo_description_input {
+  width: 500px;
+  margin: 0 0 6px 0;
+}
+
+.todo_save_button {
+  display: block;
+  width: 100px;
+  margin: 0 0 6px 0;
+}

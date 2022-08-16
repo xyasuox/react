@@ -1,0 +1,51 @@
+.todo_area {
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #d1d1d1;
+}
+
+.todo_area_title {
+  color: #4f80eb;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px 0px 20px 0px;
+}
+
+.todo_list {
+  padding: 10px;
+}
+
+.todo_card {
+  border: 1px solid #d1d1d1;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+}
+
+.todo_title {
+  color: #434343;
+  display: flex;
+  font-size: 20px;
+}
+
+.todo_content {
+  color: #5c5c5c;
+  font-size: 16px;
+}
+
+.delete_button {
+  vertical-align: middle;
+  margin-left: 10px;
+  width: 30px;
+}
+
+.delete_button:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.delete_button:active {
+  position: relative;
+  top: 1px;
+}
